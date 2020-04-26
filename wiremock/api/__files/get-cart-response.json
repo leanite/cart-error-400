@@ -1,0 +1,32 @@
+{
+  "items":[
+    {
+      "product":{
+        "name": "Camisa",
+        "price": 180.0
+      },
+      "quantity": 1
+    },
+    {
+      "product":{
+        "name": "Short",
+        "price": 100.0
+      },
+      "quantity": 1
+    },
+    {
+      "product":{
+        "name": "Chuteira",
+        "price": 250.0
+      },
+      "quantity": 1
+    },
+    {
+      "product":{
+        "name": "Meião",
+        "price": 50.0
+      },
+      "quantity": 2
+    }
+  ]
+}

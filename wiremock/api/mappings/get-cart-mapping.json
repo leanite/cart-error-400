@@ -1,0 +1,11 @@
+{
+  "request" : {
+    "url" : "/cart",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "get-cart-response.json",
+    "fixedDelayMilliseconds": 0
+  }
+}
